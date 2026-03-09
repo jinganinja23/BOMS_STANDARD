@@ -1,0 +1,51 @@
+﻿,Line #,Name,Description,Designator,Revision ID,Revision Status,Quantity,Manufacturer 1,Manufacturer Part Number 1,Manufacturer Lifecycle 1,Supplier 1,Supplier Part Number 1,Supplier Unit Price 1,Supplier Subtotal 1
+,39,G5V-2-DC12,Low Signal Relay 12VDC Coil 8-Blade Terminal 125VAC/DC 2A 2 Poles PCB Mounting DPDT,"K1, K2",Unknown server,Unknown server,2,Omron,G5V-2-DC12,Volume Production,Arrow Electronics,G5V-2-DC12,3.26,6.52
+,33,66200221022,"WR-MPC3 Dual Row Right Angled Header with Plastic Pegs, THT, pitch 3mm, 2pins","P1, P2",Unknown server,Unknown server,2,Molex,43045-0201,Volume Production,Arrow Electronics,43045-0201,1.21,2.43
+,34,66200421022,"WR-MPC3 Dual Row Right Angled Header with Plastic Pegs, THT, pitch 3mm, 4pins",P4,Unknown server,Unknown server,1,Molex,43045-0401,Volume Production,Arrow Electronics,43045-0401,0.80832,0.80832
+,7,2N7002K,N-Channel 60V 300mA (Ta) 350mW (Ta) Surface Mount SOT-23 (TO-236AB),Q2,Unknown server,Unknown server,1,Infineon,BSS7728NH6327XTSA2,Obsolete,,,,
+,29,3313J-1-103E,SMD Cermet Trimmer Resistor w/J-Hook Term.; 10kOhm +/-20% 0.125W +/-150ppm/degC,R53,Unknown server,Unknown server,1,Bourns,3313J-1-103E,Volume Production,Digikey,3313J-103ECT-ND,2.44,2.44
+,46,SMAZ12-13-F,Zener Diode 12V 1W ±5% Surface Mount SMA,D5,Unknown server,Unknown server,1,Diodes,SMAZ12-13-F,Volume Production,Digikey,SMAZ12-FDICT-ND,0.38646,0.38646
+,45,PMEG6030EVPX,"Rectifier Diode, Schottky, 1 Phase, 1 Element, 4.2A, 60V V(RRM), Silicon","D9, D11",Unknown server,Unknown server,2,Nexperia,PMEG6030EVPX,Volume Production,Digikey,1727-1349-1-ND,0.85021,1.7
+,47,SMAZ22-13-F,Zener Diode 22V 1W ±5% Surface Mount SMA,D10,Unknown server,Unknown server,1,Diodes,SMAZ22-13-F,Volume Production,Digikey,SMAZ22-FDICT-ND,0.47921,0.47921
+,23,100R 1% 0603,100R 1% 0603,"R24, R32, R39, R49",Unknown server,Unknown server,4,Stackpole Electronics,RMCF0603FT100R,Volume Production,Mouser,708-RMCF0603FT100R,0.02164,0.21642
+,6,2M2 1% 0603,2M2 1% 0603 250mW,"R25, R26, R33, R35, R48",Unknown server,Unknown server,5,Yageo,RC0603FR-072M2L,Volume Production,Newark,49AK1932,0.00464,0.02319
+,20,68k 1% 0603,68k 1% 0603  100mW,R38,Unknown server,Unknown server,1,Yageo,RC0603FR-0768KL,Volume Production,Mouser,603-RC0603FR-0768KL,0.15458,0.15458
+,2,1k 1% 0603,1k 1% 0603 250mW,"R44, R45",Unknown server,Unknown server,2,Bourns,CR0603-FX-1001ELF,Volume Production,Mouser,652-CR0603FX-1001ELF,0.0201,0.20096
+,16,20k 1% 0603,20k 1% 0603 0.1 mW,"R43, R46",Unknown server,Unknown server,2,Stackpole Electronics,RMCF0603FT20K0,Volume Production,Mouser,708-RMCF0603FT20K0,0.02783,0.27825
+,21,100k 1% 0603,100k 1% 0603 250mW,"R15, R16, R17, R27, R28, R54, R56, R61, R62, R68, R69",Unknown server,Unknown server,11,TE Connectivity,CRGP0603F100K,Volume Production,Avnet,73AC3644,0.04947,0.54413
+,38,BU4S584G2,IC INVERTER SCHMITT 1CH 5SSOP,U10,Unknown server,Unknown server,1,Rohm,BU4S584G2-TR,Volume Production,Newark,08X1482,0.56268,0.56268
+,18,22uF 35V X7R 1206,22uF 35V X7R 1206,"C5, C6, C7",Unknown server,Unknown server,3,TDK,C3216X5R1V226M160AC,Volume Production,Newark,95Y0083,1.23,3.68
+,19,47pF 50V X7R 0603,47pF 50VV X7R 0603,C4,Unknown server,Unknown server,1,Walsin Technologies,0603N470J500CT,Volume Production,Digikey,1292-1528-1-ND,0.15458,0.15458
+,28,2700pF 50V X7R 0603,2700pF 50V X7R 0603,C8,Unknown server,Unknown server,1,Walsin Technologies,0603B272K500CT,Volume Production,Mouser,791-0603B272K500CT,0.15458,0.15458
+,24,115k 0.1% 0603,115k 0.1% 0603 100mW,R2,Unknown server,Unknown server,1,KOA Speer,RN73R1JTTD1153B50,Volume Production,Digikey,2019-RN73R1JTTD1153B50CT-ND,0.15458,0.15458
+,26,200k 1% 0603,200k 1% 0603 100mW,R4,Unknown server,Unknown server,1,Stackpole Electronics,RMCF0603FT200K,Volume Production,Digikey,RMCF0603FT200KCT-ND,0.15458,0.15458
+,15,15k8 1% 0603,15k8 1% 0603,R6,Unknown server,Unknown server,1,Bourns,CR0603-FX-1582ELF,Volume Production,Digikey,CR0603-FX-1582ELFCT-ND,0.15458,0.15458
+,37,AP64500SP-13,"Buck Switching Regulator IC Positive Adjustable 0.8V 1 Output 5A 8-SOIC (0.154"", 3.90mm Width) Exposed Pad",U1,Unknown server,Unknown server,1,Diodes,AP64500SP-13,Volume Production,Newark,81AH8754,3.23,3.23
+,8,2u2 25V X6S 0603,2u2 25V X6S 0603,C23,Unknown server,Unknown server,1,Murata,GRM188C81E225KE11D,Volume Production,Mouser,81-GRM188C81E225KE1D,0.24733,0.24733
+,13,10uF 25V X7R 0805,10uF 25V X7R 0805,C19,Unknown server,Unknown server,1,Murata,GRM21BZ71E106KE15L,Volume Production,Digikey,490-GRM21BZ71E106KE15LCT-ND,0.44829,0.44829
+,3,1N4448WQ-7-F,"Diode, SMD, 75V, 5%, 250mA, SOD123","D4, D8",Unknown server,Unknown server,2,Diodes,1N4448WQ-7-F,Volume Production,Mouser,621-1N4448WQ-7-F,0.15458,0.30917
+,12,10k 1% 0603,10k 1% 0603 100mW,"R1, R51, R52, R55",Unknown server,Unknown server,4,TE Connectivity,CRGCQ0603F10K,Volume Production,Newark,61AC6441,0.02319,0.23188
+,11,5k1 1% 0603,5k1 1% 0603 100 mW,"R21, R22, R29, R30",Unknown server,Unknown server,4,Yageo,RC0603FR-075K1L,Volume Production,Digikey,311-5.10KHRCT-ND,0.01391,0.13913
+,22,100nF 50V X7R 0603,100nF 50V X7R 0603,"C1, C9, C10, C11, C12, C13, C14, C15, C16, C17, C18, C20, C21, C22, C24, C25, C26, C27, C28, C29, C30, C31, C32, C33, C34, C35, C36",Unknown server,Unknown server,27,Samsung,CL10B104KB8NNWC,Volume Production,Mouser,187-CL10B104KB8NNWC,0.01855,0.50085
+,14,10uF 50V X7R 1206,10uF 50V X7R 1206,C2,Unknown server,Unknown server,1,Samsung,CL31B106KBHNNNE,Volume Production,Digikey,1276-6767-1-ND,0.24733,0.24733
+,36,865080642006,"WCAP-ASLI Aluminum Electrolytic Capacitor, V-Chip, D5 x H5.5mm, 10uF, 50V",C3,Unknown server,Unknown server,1,Wurth Electronics,865080642006,Volume Production,Digikey,732-8451-1-ND,0.30917,0.30917
+,31,824501301,"WE-TVSP SMT Power TVS Diode, DO-214AC, Bidirectional, 400W, 30VDC",D1,Unknown server,Unknown server,1,Wurth Electronics,824501301,Volume Production,Mouser,710-824501301,0.44829,0.44829
+,35,66200821022,"WR-MPC3 Dual Row Right Angled Header with Plastic Pegs, THT, pitch 3mm, 8pins",P3,Unknown server,Unknown server,1,Molex,43045-0801,Volume Production,Newark,56H9514,1.7,1.7
+,4,"2k2, 1%, 0603","2k2, 1%, 0603 250mW","R3, R12, R14, R19, R23, R31, R40, R41, R47, R58, R60, R63, R65, R67, R70",Unknown server,Unknown server,15,TE Connectivity,CRGP0603F2K2,Volume Production,Newark,73AC3672,0.0201,0.30144
+,9,3k3 1% 0603,3k3 1% 0603 0.1 mW,"R11, R13, R18, R20, R36, R37, R42, R57, R59, R64, R66",Unknown server,Unknown server,11,Panasonic,ERJ-3EKF3301V,Volume Production,Newark,64R5339,0.00928,0.10203
+,10,4k7 1% 0603,4k7 1% 0603,R50,Unknown server,Unknown server,1,Bourns,CR0603-FX-4701ELF,Volume Production,Newark,61J5393,0.12367,0.12367
+,51,TS862IDT,"Comparator, 2 Func, 18000uV Offset-Max, 2000ns Response Time, BICMOS, PDSO8","U2, U4, U6, U7, U11, U12",Unknown server,Unknown server,6,STMicroelectronics,TS862IDT,Volume Production,Digikey,497-8131-1-ND,2.15,12.89
+,17,20R 2W 2512 1%,20R 2W 2512 1%,"R7, R8, R9, R10",Unknown server,Unknown server,4,TE Connectivity,352120RFT,Volume Production,Newark,99X2003,0.91823,3.67
+,41,LED Green 0603,LED Green 0603,"DS1, DS2, DS3, DS4, DS7, DS8, DS9, DS10",Unknown server,Unknown server,8,Vishay Lite-On,LTST-C190GKT,Not Recommended for New Design,Digikey,160-1183-1-ND,0.14531,1.45
+,40,LED Blue 0603,LED Blue 0603,"DS5, DS6",Unknown server,Unknown server,2,Rohm,SMLE13BC8TT86,Obsolete,Digikey,846-1177-1-ND,0.54104,1.08
+,43,M4 Mounting Hole (Unplated),,"MH1, MH2, MH3, MH4",Unknown server,Unknown server,4,,,,,,,
+,50,TP 1.6mm Red,TP 1.6mm Red,TP2,Unknown server,Unknown server,1,Keystone Electronics,5010,Volume Production,Newark,62W5144,0.46375,0.46375
+,48,SN74HCT08DR,AND Gate IC 4 Channel  14-SOIC,"U3, U5",Unknown server,Unknown server,2,Texas Instruments,SN74HCT08DR,Volume Production,Arrow Electronics,SN74HCT08DR,0.11161,0.22322
+,52,TSX712IDT,"Operational Amplifier, 2 Func, 450uV Offset-Max, PDSO8",U9,Unknown server,Unknown server,1,STMicroelectronics,TSX712IDT,Volume Production,Arrow Electronics,TSX712IDT,1.51,1.51
+,32,7447797360,"General Purpose Inductor, 3.6uH, 20%, 1 Element, Ferrite-Core, SMD, 4040",L1,Unknown server,Unknown server,1,Wurth Electronics,7447797360,Volume Production,Digikey,732-2210-1-ND,4.44,4.44
+,44,MMBT3904VL,Transistor Gp Bjt NPN 40V 0.2A 3-PIN SOT-23 T/r,Q1,Unknown server,Unknown server,1,NXP Semiconductors,MMBT3904VL,Volume Production,Mouser,771-MMBT3904VL,0.15458,0.15458
+,30,824032815,"WE-TVS TVS Diode – Standard Series, DFN1610-2L, 1 Channel, 5V, 140pF","D2, D3, D6, D7",Unknown server,Unknown server,4,Wurth Electronics,824032815,Volume Production,Digikey,732-824032815CT-ND,1.84,7.36
+,25,140k 0.1% 0603,Res Thin Film 0603 140K Ohm 0.1% 0.1W(1/10W) ±25ppm/°C Molded SMD Punched Carrier T/R,R5,Unknown server,Unknown server,1,Panasonic,ERA-3AEB1403V,Volume Production,Digikey,P140KDBCT-ND,0.15458,0.15458
+,5,2k 1% 1206 1/2W,2k 1% 1206 1/2W,R34,Unknown server,Unknown server,1,Yageo,AC1206FR-7W2KL,Volume Production,Mouser,603-AC1206FR-7W2KL,0.17004,0.17004
+,49,SN74LVC1G32DBVRG4,Single 2-input positive-OR gate is designed for 1.65-V to 5.5-V VCC operation,U8,Unknown server,Unknown server,1,Texas Instruments,SN74LVC1G32DBVRG4,Volume Production,Heisener,SN74LVC1G32DBVRG4,0.15814,0.15814
+,,LM317DCYR,"Adjustable Positive Standard Regulator, 1.25V Min, 37V Max, BIPolar, PDSO4",U13,Unknown server,Unknown server,1,,,,,,,

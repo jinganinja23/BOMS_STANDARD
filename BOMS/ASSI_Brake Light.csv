@@ -1,0 +1,11 @@
+﻿,Line #,Name,Description,Designator,Revision ID,Revision State,Revision Status,Quantity,Manufacturer 1,Manufacturer Part Number 1,Manufacturer Lifecycle 1,Supplier 1,Supplier Part Number 1,Supplier Unit Price 1,Supplier Subtotal 1
+,4,PMEG6030EVPX,"Rectifier Diode, Schottky, 1 Phase, 1 Element, 4.2A, 60V V(RRM), Silicon","D1, D2, D3, D4",CMP-004-00047-1,Draft,Out of date,4,Nexperia,PMEG6030EVPX,Volume Production,Newark,12X8767,0.188,0.752
+,5,Xlamp XP-E2 LED RED,"LED, HB, RED, 73.9LM; Series: XLamp XP-E2; LED Color: Red; Luminous Intensity @ Test: -; Luminous Flux @ Test:...","DS1, DS2, DS3, DS4, DS5, DS6",CMP-004-00061-3,Draft,Up to date,6,Cree,XPEBRD-L1-0000-00501,,Mouser,941-XPEBRDL10000501,1.14,6.84
+,7,Jumper 2Way Vert Pins,Jumper 2Way Vert Pins,J1,CMP-015-000002-1,Draft,Up to date,1,QUTMS LAB,QUTMS LAB,Manual Solution,QUTMS LAB,QUTMS LAB,0.01,0.01
+,8,SRN6045-470M,Inductor Power Semi-Shielded Wirewound 47uH 20% 100KHz 13Q-Factor Ferrite 1.1A 257mOhm DCR T/R,"L1, L2",placeholder-2,Draft,Up to date,2,Bourns,SRN6045-470M,Volume Production,Avnet,64T2388,0.291,0.582
+,10,ID3.2x3.6mm,"WA-SMSR SMT Steel Spacer Reverse with through hole 3.2mm, Length 3.6mm","MP1, MP2, MP3, MP4",CMP-041-000000-1,Draft,Up to date,4,Wurth Electronics,9775036960R,,Digikey,732-9775036960RCT-ND,1.09,4.36
+,11,66200311022,"WR-MPC3 Single Row Right Angled Header with Plastic Pegs, THT, pitch 3mm, 3pins",P1,CMP-002-00080-1,Deleted,Deleted,1,Wurth Electronics,66200311022,Unknown,Digikey,732-66200311022-ND,0.94,0.94
+,9,QUTMS Logo 20mm TL,QUTMS Logo 20mm TL,LOGO2,CMP-037-000000-2,Draft,Up to date,1,,,,,,,
+,,10uF 50V X7R 1206,10uF 50V X7R 1206,"C1, C2, C3, C4",CMP-001-00152-2,Draft,Up to date,4,Samsung,CL31B106KBHNNNE,Volume Production,Farnell,4539207,0.19996,0.99979
+,,0R3 1% 1206,0R3 300mOhm 300mΩ 1% 1206 500mW,"R1, R2",CMP-009-00408-1,Draft,Up to date,2,Bourns,CRL1206-FW-R300ELF,Volume Production,Arrow Electronics,CRL1206-FW-R300ELF,0.0068,0.0136
+,,AL8860MP-13,"LED Driver IC 1 Output DC DC Regulator Step-Down (Buck) Analog, PWM Dimming 1.5A 8-MSOP-EP","U1, U2",CMP-00024-00018-8,Draft,Out of date,2,Diodes,AL8860MP-13,Volume Production,Digikey,AL8860MP-13DICT-ND,0.62,1.24

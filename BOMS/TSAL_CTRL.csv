@@ -1,0 +1,35 @@
+﻿,Line #,Name,Description,Designator,Revision ID,Revision State,Revision Status,Quantity,Manufacturer 1,Manufacturer Part Number 1,Manufacturer Lifecycle 1,Supplier 1,Supplier Part Number 1,Supplier Unit Price 1,Supplier Subtotal 1
+,32,LM555CMX,"555 Type, Timer/Oscillator (Single) IC 100kHz 8-SOIC",U2,,Not managed,,1,TI National Semiconductor,LM555CMX/NOPB,,Arrow Electronics,LM555CMX/NOPB,1.13,1.13
+,6,LED Green 0603,LED Green 0603,DS1,Unknown server,Unknown server,Unknown server,1,Vishay Lite-On,LTST-C190GKT,Volume Production,Mouser,859-LTST-C190GKT,0.24,0.24
+,10,66200211022,"WR-MPC3 Single Row Right Angled Header with Plastic Pegs, THT, pitch 3mm, 2pins","J1, J3",Unknown server,Unknown server,Unknown server,2,Molex,43650-0200,Volume Production,Avnet,0436500200,0.6,1.2
+,11,SRN6045-470M,Inductor Power Semi-Shielded Wirewound 47uH 20% 100KHz 13Q-Factor Ferrite 1.1A 257mOhm DCR T/R,"L1A, L1B",Unknown server,Unknown server,Unknown server,2,Bourns,SRN6045-470M,Volume Production,Newark,38AC2382,0.251,0.502
+,14,CPH3351,P-Channel 60V 1.8A (Ta) 1W (Ta) Surface Mount 3-CPH,"Q1, Q2",Unknown server,Unknown server,Unknown server,2,Vishay,TP0610K-T1-E3,Volume Production,Arrow Electronics,TP0610K-T1-E3,0.4329,0.8658
+,16,140817143400,"WL-OCPT Optocoupler Phototransistor, DIP4_SL-Type, SMT, DC, 35V, 60mA",Q4,Unknown server,Unknown server,Unknown server,1,Wurth Electronics,140817143400,Volume Production,Farnell,3619684,0.26498,0.26498
+,1,100nF 25V X7R 0603,100nF 25V X7R 0603,"C1, C2, C5",Unknown server,Unknown server,Unknown server,3,Yageo,CC0603MRX7R8BB104,Volume Production,Newark,50AJ2733,0.018,0.054
+,2,1uF 25V X7R 0603,1uF 25V X7R 0603 10%,C3,Unknown server,Unknown server,Unknown server,1,KEMET,C0603C105K3PACTU,Volume Production,Newark,36X2618,0.029,0.029
+,,2u2 100V X7R 1210,2u2 100V X7R 1210,"C4, C8, C9, C10",Unknown server,Unknown server,Unknown server,4,,,,,,,
+,,10uF 50V X7R 1206,10uF 50V X7R 1206,"C6A, C6B, C7A, C7B",Unknown server,Unknown server,Unknown server,4,,,,,,,
+,4,SMAZ12-13-F,Zener Diode 12V 1W ±5% Surface Mount SMA,D1,Unknown server,Unknown server,Unknown server,1,Diodes,SMAZ12-13-F,Volume Production,Allied Electronics,70438551,0.231,0.231
+,5,PMEG6030EVPX,"Rectifier Diode, Schottky, 1 Phase, 1 Element, 4.2A, 60V V(RRM), Silicon","D2A, D2B",Unknown server,Unknown server,Unknown server,2,Nexperia,PMEG6030EVPX,Volume Production,Mouser,771-PMEG6030EVPX,0.5,1
+,,824551121,"WE-TVSP SMT Power TVS Diode, DO-214AB, Bidirectional, 3000W, 12VDC",D3,Unknown server,Unknown server,Unknown server,1,,,,,,,
+,7,LED Red 0603,LED Red 0603,DS2,Unknown server,Unknown server,Unknown server,1,Broadcom Avago,HSMS-C190,Volume Production,Newark,68Y1185,0.09,0.09
+,9,66200621022,"WR-MPC3 Dual Row Right Angled Header with Plastic Pegs, THT, pitch 3mm, 6pins",J2,Unknown server,Unknown server,Unknown server,1,Molex,43045-0600,Volume Production,Avnet,0430450600,1.21,1.21
+,,Jumper 2Way,Jumper 2Way Side Solderable,"J4, J5",Unknown server,Unknown server,Unknown server,2,,,,,,,
+,,RSH3-1212S/H3,3 Watt SMD DIP14 Single Output 9-18V -> 12V,PS1,Unknown server,Unknown server,Unknown server,1,,,,,,,
+,15,2N7002K,N-Channel 60V 300mA (Ta) 350mW (Ta) Surface Mount SOT-23 (TO-236AB),"Q3, Q5",Unknown server,Unknown server,Unknown server,2,ON Semiconductor,2N7002KT7G,Volume Production,Mouser,863-2N7002KT7G,0.24,0.48
+,17,10k 1% 0603,10k 1% 0603 250mW,"R1, R5, R6, R15, R20, R23",Unknown server,Unknown server,Unknown server,6,Panasonic,ERJ-PA3F1002V,Volume Production,Mouser,667-ERJ-PA3F1002V,0.16,0.96
+,18,1k 1% 0603,1k 1% 0603 250mW,"R2, R9, R10, R21",Unknown server,Unknown server,Unknown server,4,Panasonic,ERJ-PA3F1001V,Volume Production,Digi-Key,P1.0KBYCT-ND,0.16,0.64
+,,27k 1% 0603,27k 1% 0603,"R3, R13",Unknown server,Unknown server,Unknown server,2,,,,,,,
+,19,4k7 1% 0603,4k7 1% 0603,"R4, R18",Unknown server,Unknown server,Unknown server,2,Bourns,CR0603-FX-4701ELF,Volume Production,Newark,84W7240,0.002,0.004
+,20,22k 1% 0603,22k 1% 0603,"R7, R12",Unknown server,Unknown server,Unknown server,2,Stackpole Electronics,RMCF0603FT22K0,Volume Production,Digi-Key,RMCF0603FT22K0CT-ND,0.015,0.15
+,21,1M 0.1% 1206,1M 0.1% 1206,"R8, R11, R16, R19",Unknown server,Unknown server,Unknown server,4,Stackpole Electronics,RNCS1206BKE1M00,Volume Production,Digi-Key,RNCS1206BKE1M00CT-ND,0.57,2.28
+,22,220k 1% 0603,220k 1% 0603,R14,Unknown server,Unknown server,Unknown server,1,Stackpole Electronics,RMCF0603FT220K,Volume Production,Arrow Electronics,RMCF0603FT220K,0.0388,0.0388
+,23,1k2 1% 0603,1k2 1% 0603 250mW,R17,Unknown server,Unknown server,Unknown server,1,Stackpole Electronics,RMCF0603FT1K20,Volume Production,Digi-Key,RMCF0603FT1K20CT-ND,0.1,0.1
+,24,24k9 0.1% 1206,24k9 0.1% 1206 1/4W,"R22, R24",Unknown server,Unknown server,Unknown server,2,Panasonic,ERA-8AEB2492V,Volume Production,Arrow Electronics,ERA-8AEB2492V,0.6369,1.27
+,25,100R 1% 0603,100R 1% 0603,"R25, R26",Unknown server,Unknown server,Unknown server,2,Stackpole Electronics,RMCF0603FT100R,Volume Production,Digi-Key,RMCF0603FT100RCT-ND,0.015,0.15
+,26,232k 0.1% 0603,232k 0.1% 0603 250mW,R27,Unknown server,Unknown server,Unknown server,1,TE Connectivity,RN73C1J232KBTDF,,,,,
+,27,152k 0.1% 0603,152k 0.1% 0603 250mW,R28,Unknown server,Unknown server,Unknown server,1,KOA Speer,RN73R1JTTD1523B25,Volume Production,Digi-Key,2019-RN73R1JTTD1523B25CT-ND,0.39,0.39
+,28,10k 0.1% 0603,10k 0.1% 0603 250mW,R29,Unknown server,Unknown server,Unknown server,1,Stackpole Electronics,RNCF0603BTE10K0,Volume Production,Arrow Electronics,RNCF0603BTE10K0,0.3484,0.3484
+,,0R3 1% 1206,0R3 300mOhm 300mΩ 1% 1206 500mW,"R30A, R30B",Unknown server,Unknown server,Unknown server,2,,,,,,,
+,,LM311,Differential Comparator,U1,Unknown server,Unknown server,Unknown server,1,,,,,,,
+,,AL8860MP-13,"LED Driver IC 1 Output DC DC Regulator Step-Down (Buck) Analog, PWM Dimming 1.5A 8-MSOP-EP","U4A, U4B",Unknown server,Unknown server,Unknown server,2,,,,,,,

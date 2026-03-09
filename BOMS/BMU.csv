@@ -1,0 +1,78 @@
+﻿,Line #,Name,Description,Designator,Revision ID,Revision Status,Quantity,Manufacturer 1,Manufacturer Part Number 1,Manufacturer Lifecycle 1,Supplier 1,Supplier Part Number 1,Supplier Unit Price 1,Supplier Subtotal 1
+,76,USBLC6-4SC6,"Trans Voltage Suppressor Diode, 5V V(RWM), Unidirectional, 1 Element, Silicon","D4A, D4B",Unknown server,Unknown server,2,STMicroelectronics,USBLC6-4SC6,Volume Production,Mouser,511-USBLC6-4SC6,0.5362,1.07
+,55,66200421022,"WR-MPC3 Dual Row Right Angled Header with Plastic Pegs, THT, pitch 3mm, 4pins","J2A, J2B, J2C, P2, P3",Unknown server,Unknown server,5,Molex,43045-0401,Volume Production,Mouser,538-43045-0401,2.5,12.49
+,60,G5V-2-DC12,Low Signal Relay 12VDC Coil 8-Blade Terminal 125VAC/DC 2A 2 Poles PCB Mounting DPDT,"K1, K2, K3, K4, K5, K6, K7",Unknown server,Unknown server,7,Omron,G5V-2-DC12,Volume Production,Mouser,653-G5V-2-DC12,4.09,28.63
+,54,66200221022,"WR-MPC3 Dual Row Right Angled Header with Plastic Pegs, THT, pitch 3mm, 2pins","P4, P5, P7, P8",Unknown server,Unknown server,4,Molex,43045-0201,Volume Production,Mouser,538-43045-0201,1.42,5.7
+,57,BU4S584G2,IC INVERTER SCHMITT 1CH 5SSOP,U5,Unknown server,Unknown server,1,Rohm,BU4S584G2-TR,Volume Production,Mouser,755-BU4S584G2-TR,0.93452,0.93452
+,57,3221-14-0100-00,CONN HEADER VERT 14POS 1.27MM,J1,Unknown server,Unknown server,1,CNC Tech,3221-14-0100-00,,,,,
+,56,66200621022,"WR-MPC3 Dual Row Right Angled Header with Plastic Pegs, THT, pitch 3mm, 6pins","P6, P9",Unknown server,Unknown server,2,Molex,43045-0600,Volume Production,Mouser,538-43045-0600,2.47,4.93
+,38,4u7 50V 5% X7R 0603,"Capacitor, Ceramic, SMD, 4u7, 50V, 5%, X7R, 0603",C5,Unknown server,Unknown server,1,Kyocera AVX,06033C470KAT2A,Volume Production,Mouser,581-06033C470KAT2A,0.27576,0.27576
+,47,100nF 50V X7R 0603,100nF 50V X7R 0603,"C6A, C6B, C8A, C8B, C15A, C15B, C15C, C17A, C17B, C17C, C18, C19, C20, C21, C22, C26A, C26B, C28, C46, C50",Unknown server,Unknown server,20,Samsung,CL10B104KB8NNWC,Volume Production,Mouser,187-CL10B104KB8NNWC,0.01992,0.39832
+,53,470nF 50V 5% X5R 0603,"Capacitor, Ceramic, SMD, 470nF, 50V, 5%, X5R, 0603",C4,Unknown server,Unknown server,1,Taiyo Yuden,UMK107ABJ474KA-T,Volume Production,Mouser,963-UMK107ABJ474KA-T,0.18384,0.18384
+,34,1uF 25V X7R 0603,1uF 25V X7R 0603 10%,"C11A, C11B",Unknown server,Unknown server,2,KEMET,C0603C105K3PACTU,Volume Production,Mouser,80-C0603C105K3P,0.21448,0.42896
+,36,2u2 25V X6S 0603,2u2 25V X6S 0603,"C9A, C9B, C23",Unknown server,Unknown server,3,Murata,GRM188C81E225KE11D,Volume Production,Mouser,81-GRM188C81E225KE1D,0.24512,0.73536
+,68,MM3Z3V6B,"Zener Diode, 3.6V V(Z), 2%, 0.2W, Silicon, Unidirectional","D5A, D5B, D5C, D21",Unknown server,Unknown server,4,onsemi,MM3Z3V6B,Volume Production,Mouser,512-MM3Z3V6B,0.24512,0.98048
+,70,PMEG6030EVPX,"Rectifier Diode, Schottky, 1 Phase, 1 Element, 4.2A, 60V V(RRM), Silicon",D1,Unknown server,Unknown server,1,Nexperia,PMEG6030EVPX,Volume Production,Mouser,771-PMEG6030EVPX,0.8426,0.8426
+,71,SMAZ12-13-F,Zener Diode 12V 1W ±5% Surface Mount SMA,"D6, D9, D13, D16",Unknown server,Unknown server,4,Diodes,SMAZ12-13-F,Volume Production,Mouser,621-SMAZ12-F,0.383,1.53
+,72,SMAZ22-13-F,Zener Diode 22V 1W ±5% Surface Mount SMA,D19,Unknown server,Unknown server,1,Diodes,SMAZ22-13-F,Volume Production,Mouser,621-SMAZ22-13-F,0.47492,0.47492
+,64,LED 0805 Green,"Led, Green, 570 Nm, 2 V, 30 Ma, 40 Mcd Rohs Compliant: Yes","DS3, DS4, DS11, DS12",Unknown server,Unknown server,4,Wurth Electronics,150080VS75000,Volume Production,Mouser,710-150080VS75000,0.29108,1.16
+,62,IRLL024NTRPBF,"Power Field-Effect Transistor, 4.4A I(D), 55V, 0.065ohm, 1-Element, N-Channel, Silicon, Metal-oxide Semiconductor FET, TO-261AA",Q4,Unknown server,Unknown server,1,International Rectifier,IRLL024NTRPBF,,Mouser,942-IRLL024NTRPBF,0,0
+,48,100R 1% 0603,100R 1% 0603,"R20, R28",Unknown server,Unknown server,2,Stackpole Electronics,RMCF0603FT100R,Volume Production,Mouser,708-RMCF0603FT100R,0.02604,0.26044
+,37,4k7 1% 0603,4k7 1% 0603,"R17, R18, R22, R24, R29, R30, R33, R34A, R34B, R47",Unknown server,Unknown server,10,Bourns,CR0603-FX-4701ELF,Volume Production,Mouser,652-CR0603FX-4701ELF,0.02298,0.2298
+,32,1k 1% 0603,1k 1% 0603 250mW,"R14A, R14B, R14C",Unknown server,Unknown server,3,Bourns,CR0603-FX-1001ELF,Volume Production,Mouser,652-CR0603FX-1001ELF,0.01992,0.19916
+,42,10k 1% 0603,10k 1% 0603 100mW,"R13A, R13B, R16A, R16B, R16C, R42",Unknown server,Unknown server,6,TE Connectivity,CRGCQ0603F10K,Volume Production,Mouser,279-CRGCQ0603F10K,0.0429,0.42896
+,45,34k8 1% 0603,34k8 1% 0603,R41,Unknown server,Unknown server,1,Stackpole Electronics,RMCF0603FT34K8,Volume Production,Mouser,708-RMCF0603FT34K8,0.1532,0.1532
+,35,2M2 1% 0603,2M2 1% 0603 250mW,"R4, R5, R27",Unknown server,Unknown server,3,Yageo,RC0603FR-072M2L,Volume Production,Mouser,603-RC0603FR-072M2L,0.01226,0.12256
+,52,390k 1% 0603,390k 1% 0603 250mW,R7,Unknown server,Unknown server,1,Yageo,RC0603FR-07390KL,Volume Production,Mouser,603-RC0603FR-07390KL,0.1532,0.1532
+,51,240k 1% 0603,240k 1% 0603 250mW,R8,Unknown server,Unknown server,1,Stackpole Electronics,RMCF0603FT240K,Volume Production,Mouser,708-RMCF0603FT240K,0.1532,0.1532
+,31,1k5 1% 0603,Res Thick Film 0603 1.5K Ohm 1% 0.1W(1/10W) ±100ppm/C Pad SMD T/R,R9,Unknown server,Unknown server,1,Walsin Technologies,WR06X1501FTL,Volume Production,Mouser,791-WR06X1501FTL,0.1532,0.1532
+,49,150k 1% 0603,150k 1% 0603 250mW,R10,Unknown server,Unknown server,1,Walsin Technologies,WR06X1503FTL,Volume Production,Mouser,791-WR06X1503FTL,0.1532,0.1532
+,46,60R4 1% 0603,60R4 1% 0603,"R11A, R11B, R12A, R12B",Unknown server,Unknown server,4,Panasonic,ERJ-3EKF60R4V,Volume Production,Mouser,667-ERJ-3EKF60R4V,0.04749,0.47492
+,58,DSC1101CI5-020.0000T,"CMOS Output Clock Oscillator, 20MHz Nom",U9,Unknown server,Unknown server,1,Microchip,DSC1101CI5-020.0000T,Volume Production,Mouser,998-1101CI5020.0000T,2.19,2.19
+,59,FOD817A3SD,"Transistor Output Optocoupler, 1-Element, 5000V Isolation","U6, U7",Unknown server,Unknown server,2,onsemi,FOD817A3SD,Volume Production,Mouser,512-FOD817A3SD,0.6894,1.38
+,63,L9963T,Power Supply Support Circuit,"U3A, U3B",Unknown server,Unknown server,2,STMicroelectronics,L9963T-TR,Volume Production,Mouser,511-L9963T-TR,9.84,19.67
+,44,10uF 50V X7R 1206,10uF 50V X7R 1206,"C13A, C13B, C13C, C14A, C14B, C14C",Unknown server,Unknown server,6,Samsung,CL31B106KBHNNNE,Volume Production,Mouser,187-CL31B106KBHNNNE,0.50556,3.03
+,50,220nF 50V X7R 0603,"Ceramic Capacitor, Multilayer, Ceramic, 50V, 10% +Tol, 10% -Tol, X7R, 15% TC, 0.00022uF, Surface Mount, 0603","C16A, C16B, C16C",Unknown server,Unknown server,3,Walsin Technologies,0603B221K500CT,Volume Production,Mouser,791-0603B221K500CT,0.02604,0.26044
+,43,10nF 50V X7R 0603,10nF 50V X7R 0603,"C24, C25",Unknown server,Unknown server,2,Walsin Technologies,0603B103K500CT,Volume Production,Mouser,791-0603B103K500CT,0.01532,0.1532
+,33,1N4448WQ-7-F,"Diode, SMD, 75V, 5%, 250mA, SOD123","D2, D7, D8, D12, D15",Unknown server,Unknown server,5,Diodes,1N4448WQ-7-F,Volume Production,Mouser,621-1N4448WQ-7-F,0.07354,0.73536
+,65,LED 0805 RED,LED 0805 RED,"DS1, DS2",Unknown server,Unknown server,2,Broadcom Avago,HSMS-C170,Volume Production,Mouser,630-HSMS-C170,0.4596,0.9192
+,61,IRF7495PBF,"MOSFET N, 100 V 4.6 A 2.5 W SO-8, IRF7495PBF, IR","Q1A, Q1B, Q1C",Unknown server,Unknown server,3,Infineon,IRF7495TRPBF,Volume Production,Mouser,942-IRF7495TRPBF,2.53,7.58
+,75,TCAN337GDCNR,"Interface Circuit, PDSO8","U8A, U8B",Unknown server,Unknown server,2,Texas Instruments,TCAN337GDCNR,Volume Production,Mouser,595-TCAN337GDCNR,3.89,7.78
+,69,NUP2105LT1G,"Trans Voltage Suppressor Diode, 350W, 24V V(RWM), Bidirectional, 2 Element, Silicon, TO-236AB","D20A, D20B",Unknown server,Unknown server,2,onsemi,NUP2105LT1G,Volume Production,Mouser,863-NUP2105LT1G,0.59748,1.19
+,39,5k1 1% 0603,5k1 1% 0603 100 mW,"R15A, R15B, R15C",Unknown server,Unknown server,3,Yageo,RC0603FR-075K1L,Volume Production,Mouser,603-RC0603FR-075K1L,0.01379,0.13788
+,73,STLINK-V3MODS,STLINK-V3 Modular In-Circuit Debugger and Programmer for STM32 Microcontrollers,U2,Unknown server,Unknown server,1,,,,,,,
+,41,7k5 1% 0603,7k5 1% 0603 250mW,"R1, R2",Unknown server,Unknown server,2,Stackpole Electronics,RMCF0603FT7K50,Volume Production,Mouser,708-RMCF0603FT7K50,0.02604,0.26044
+,40,"6k2 1% 0603, 6k2 1% 0603 TF",6k2 1% 0603 100mW Thick Film,"R3, R6",Unknown server,Unknown server,2,Stackpole Electronics,RMCF0603FT6K20,Volume Production,Mouser,708-RMCF0603FT6K20,0.02145,0.21448
+,24,860020574012,"Aluminum Electrolytic Capacitor, Aluminum (wet)","C1, C2, C3",Unknown server,Unknown server,3,Wurth Electronics,860020574012,Volume Production,Mouser,710-860020574012,0.4596,1.38
+,13,22pF 16V COG 0603,22pF 16V COG 0603,"C7A, C7B, C12A, C12B",Unknown server,Unknown server,4,Wurth Electronics,885012006019,Volume Production,Mouser,710-885012006019,0.0429,0.42896
+,8,6n8 16V COG 0805,6n8 16V COG 0805,"C10A, C10B",Unknown server,Unknown server,2,KEMET,C0805C682J4GACTU,Volume Production,Mouser,80-C0805C682J4G,0.9192,1.84
+,15,100n 50V X7R 0402,100n 50V X7R 0402,"C27, C29, C30, C31, C34, C35, C36, C37, C38, C39, C40, C41",Unknown server,Unknown server,12,Murata,GRM155R71H104KE14J,Volume Production,Mouser,81-GRM155R71H104KE4J,0.0337,0.40445
+,6,4u7 16 V X7R 0603,4u7 16 V X7R 0603,"C32, C33",Unknown server,Unknown server,2,Murata,GRM21BR71C475KE51L,Volume Production,Mouser,81-GRM21BR71C475KE1L,0.19916,0.39832
+,1,1u 25V X6S 0402,1u 25V X6S 0402,"C42, C44",Unknown server,Unknown server,2,Murata,GRM155C81E105KE11J,Volume Production,Mouser,81-GRM155C81E105KE1J,0.1532,0.3064
+,10,10n 50V X7R 0402,10n 50V X7R 0402,"C43, C45",Unknown server,Unknown server,2,Wurth Electronics,885012205067,Volume Production,Mouser,710-885012205067,0.01532,0.1532
+,4,2u2 100V X7R 1210,2u2 100V X7R 1210,"C47, C51",Unknown server,Unknown server,2,Samsung,CL32B225KCJSNNE,Volume Production,Mouser,187-CL32B225KCJSNNE,0.72004,1.44
+,11,10uF 25V X7R 0805,10uF 25V X7R 0805,"C48, C52",Unknown server,Unknown server,2,Murata,GRM21BZ71E106KE15L,Volume Production,Mouser,81-GRM21BZ71E106KE5L,0.44428,0.88856
+,7,4u7 25V X5R 0603,4u7 25V X5R 0603,"C49, C53",Unknown server,Unknown server,2,Murata,GRM188C81E475KE11D,Volume Production,Mouser,81-GRM188C81E475KE1D,0.33704,0.67408
+,30,SMC30J28A,"Trans Voltage Suppressor Diode, 3000W, 28V V(RWM), Unidirectional, 1 Element, Silicon, DO-214AB",D3,Unknown server,Unknown server,1,STMicroelectronics,SMC30J28A,Volume Production,Mouser,511-SMC30J28A,1.78,1.78
+,27,MBR0540T1G,"Rectifier Diode, Schottky, 1 Phase, 1 Element, 0.5A, 40V V(RRM), Silicon","D10, D11, D14, D17, D18",Unknown server,Unknown server,5,onsemi,MBR0540T1G,Volume Production,Mouser,863-MBR0540T1G,0.42896,2.14
+,19,150353M153300,Triple Color LED,"DS6, DS8",Unknown server,Unknown server,2,Wurth Electronics,150353M153300,Volume Production,Mouser,710-150353M153300,0.90388,1.81
+,23,74438357100,"74438357100 General Purpose Inductor, 10uH, 20%, 1 Element, Iron Alloy-Core, SMD, 1616",L1,Unknown server,Unknown server,1,Wurth Electronics,74438357100,,Mouser,710-74438357100,2.32,2.32
+,22,74437324082,"General Purpose Inductor, 8.2uH, 20%, 1 Element, Powdered  Iron-Core, SMD, 1816",L2,Unknown server,Unknown server,1,Wurth Electronics,74437324082,Volume Production,Mouser,710-74437324082,2.6,2.6
+,21,66201221022,"WR-MPC3 Dual Row Right Angled Header with Plastic Pegs, THT, pitch 3mm, 12pins",P1,Unknown server,Unknown server,1,Wurth Electronics,66201221022,Volume Production,Mouser,710-66201221022,1.36,1.36
+,28,MMBT3904VL,Transistor Gp Bjt NPN 40V 0.2A 3-PIN SOT-23 T/r,"Q2, Q3",Unknown server,Unknown server,2,NXP Semiconductors,MMBT3904VL,Volume Production,Mouser,771-MMBT3904VL,0.1532,0.3064
+,3,"2k2, 1%, 0603","2k2, 1%, 0603 250mW","R19, R21, R23, R25, R50",Unknown server,Unknown server,5,TE Connectivity,CRGP0603F2K2,Volume Production,Mouser,279-CRGP0603F2K2,0.12103,1.21
+,18,330R 1% 0603,330R 1% 0603,R26,Unknown server,Unknown server,1,Panasonic,ERJ-PB3B3300V,New Product,Mouser,667-ERJ-PB3B3300V,0.24512,0.24512
+,16,100R 1% 0603,100R 1% 0603 0.25W,"R31, R32",Unknown server,Unknown server,2,Vishay Dale,RCS0603100RFKEA,Volume Production,Mouser,71-RCS0603100RFKEA,0.19916,0.39832
+,5,3k3 1% 0603,3k3 1% 0603 0.1 mW,"R37, R40",Unknown server,Unknown server,2,Panasonic,ERJ-3EKF3301V,Volume Production,Mouser,667-ERJ-3EKF3301V,0.18384,0.36768
+,2,2k2 1% 0402,2k2 1% 0402 0.063W,"R43, R44",Unknown server,Unknown server,2,Walsin Technologies,WR04X2201FTL,Volume Production,Mouser,791-WR04X2201FTL,0.01072,0.10724
+,9,10k 1% 0402,10k 1% 0402 0.063W,"R45, R46",Unknown server,Unknown server,2,Walsin Technologies,WR04X1002FTL,Volume Production,Mouser,791-WR04X1002FTL,0.01072,0.10724
+,17,"118k 0.1% 0603, 22k1 0.1% 0603",22k1 0.1% 0603,"R48, R49",Unknown server,Unknown server,2,Panasonic,ERA-3AEB1403V,Volume Production,Mouser,667-ERA-3AEB1403V,0.1532,0.3064
+,14,69k8 0.1% 0603,Res Thin Film 0603 69.8K Ohm 0.1% 0.1W(1/10W) ±25ppm/°C Molded SMD Punched Carrier T/R,R51,Unknown server,Unknown server,1,Panasonic,ERA-3AEB6982V,Not Recommended for New Design,Mouser,667-ERA-3AEB6982V,0.1532,0.1532
+,12,22k1 0.1% 0603,"Fixed Resistor, Thin Film, 0.1W, 22100ohm, 75V, 0.1% +/-Tol, 25ppm/Cel, Surface Mount, 0603",R52,Unknown server,Unknown server,1,Panasonic,ERA-3AEB2212V,Volume Production,Mouser,667-ERA-3AEB2212V,0.1532,0.1532
+,20,74942301,"WE-BMS Transformer for Battery Management Systems, SMT, 2 Port, 1000VDC",T1,Unknown server,Unknown server,1,Wurth Electronics,74942301,,Mouser,710-74942301,7.46,7.46
+,67,MAX17608ATC+T,"Power Supply Support Circuit, Adjustable, 1 Channel, PDSO12",U1,Unknown server,Unknown server,1,Maxim,MAX17608ATC+T,Volume Production,Mouser,700-MAX17608ATC+T,7.84,7.84
+,74,STM32G484QET6,"Arm Cortex-M4 MCU 170 MHz with 512 Kbytes of Flash memory, Math Accelerator, HR Timer, High Analog level integration, Crypto",U10,Unknown server,Unknown server,1,STMicroelectronics,STM32G484QET6,Volume Production,Mouser,511-STM32G484QET6,15.66,15.66
+,29,MX35LF1G24AD-Z4I-T,NAND Flash Memory 1Gbit Serial-SPI 3V 8-Pin WSON T/R,U11,Unknown server,Unknown server,1,Macronix,MX35LF1G24AD-Z4I/TR,,,,,
+,25,AT24C16D-STUM-T,AT24C16D Series 16-Kbit (2K x 8) I²C-Compatible (2-Wire) Serial EEPROM-SOT-23-5,U12,Unknown server,Unknown server,1,Microchip,AT24C16D-STUM-T,,Mouser,556-AT24C16D-STUM-T,0.58216,0.58216
+,26,LMR51610YFDBVR,SIMPLE SWITCHER POWER CONVERTER Buck Switching Regulator IC Positive Adjustable 0.8V 1 Output 1A SOT-23-6,"U13, U14",Unknown server,Unknown server,2,Texas Instruments,LMR51610YFDBVR,,Mouser,595-LMR51610YFDBVR,1.98,3.95
+,66,LM74502DDFR,3.2-V to 65-V industrial RPP controller with load disconnect and OVP 8-SOT-23-THIN -40 to 125,"U4A, U4B, U4C",Unknown server,Unknown server,3,Texas Instruments,LM74502DDFR,Volume Production,Mouser,595-LM74502DDFR,2.45,7.35

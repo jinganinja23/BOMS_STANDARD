@@ -1,0 +1,21 @@
+﻿,Line #,Name,Description,Designator,Revision ID,Revision Status,Quantity,Manufacturer 1,Manufacturer Part Number 1,Manufacturer Lifecycle 1,Supplier 1,Supplier Part Number 1,Supplier Unit Price 1,Supplier Subtotal 1
+,15,TP 1.6mm Red,TP 1.6mm Red,TP2,CMP-00028-00007-1,Up to date,1,Keystone Electronics,5010,Volume Production,Newark,62W5144,0.46196,1.39
+,2,100nF 25V X7R 0603,100nF 25V X7R 0603,"C8, C10, C12, C15",CMP-001-00117-14,Up to date,4,Yageo,CC0603MRX7R8BB104,Volume Production,Farnell,3764557,0.03799,0.45593
+,3,100nF 50V X7R 0603,100nF 50V X7R 0603,"C5, C6, C7, C9, C11, C13, C14",CMP-001-00146-9,Out of date,7,Samsung,CL10B104KB8NNWC,Volume Production,Digikey,1276-1935-1-ND,0.0154,0.32338
+,9,10k 1% 0603,10k 1% 0603 100mW,"R1, R2, R4, R5, R6, R7, R10, R16, R25",CMP-009-00186-10,Out of date,9,TE Connectivity,CRGCQ0603F10K,Volume Production,Newark,61AC6441,0.01848,0.49892
+,13,1k 1% 0603,1k 1% 0603 250mW,"R20, R28, R32, R37",CMP-009-00185-13,Up to date,4,Bourns,CR0603-FX-1001ELF,Volume Production,Mouser,652-CR0603FX-1001ELF,0.01722,0.20663
+,6,3k9 1% 0603,3k9 1% 0603 100mW,"R19, R22, R31, R34",CMP-009-00226-11,Out of date,4,Stackpole Electronics,RMCF0603FT3K90,Volume Production,"Mouser, Avnet","708-RMCF0603FT3K90, RMCF0603FT3K90",0.00861,0.10332
+,8,"2k2, 1%, 0603","2k2, 1%, 0603 250mW","R3, R9, R11, R14, R15, R21, R23, R26, R29, R33, R35",CMP-009-00190-7,Out of date,11,TE Connectivity,CRGP0603F2K2,Volume Production,Newark,73AC3672,0.02002,0.66061
+,14,20k 1% 0603,20k 1% 0603 0.1 mW,"R24, R36",CMP-009-00265-6,Out of date,2,Stackpole Electronics,RMCF0603FT20K0,Volume Production,Mouser,708-RMCF0603FT20K0,0.00861,0.0861
+,,3k3 1% 0603,3k3 1% 0603 0.1 mW,"R8, R12, R13, R27",CMP-009-00252-4,Out of date,4,Panasonic,ERJ-3EKF3301V,Volume Production,Newark,64R5339,0.006,0.072
+,17,SN74HCT08DR,AND Gate IC 4 Channel  14-SOIC,U3,CMP-078-000001-2,Out of date,1,Texas Instruments,SN74HCT08DR,Volume Production,Arrow Electronics,SN74HCT08DR,0.18209,0.54628
+,16,TS862IDT,"Comparator, 2 Func, 18000uV Offset-Max, 2000ns Response Time, BICMOS, PDSO8","U1, U4, U5",CMP-016-00019-1,Up to date,3,STMicroelectronics,TS862IDT,Volume Production,Digikey,497-8131-1-ND,1.56,15.61
+,5,824032815,"WE-TVS TVS Diode – Standard Series, DFN1610-2L, 1 Channel, 5V, 140pF","D2, D3, D4, D5",CMP-004-00478-1,Up to date,4,Wurth Electronics,824032815,Unknown,Digikey,732-824032815CT-ND,1.83,21.99
+,1,10uF 50V X7R 1206,10uF 50V X7R 1206,"C1, C2",CMP-001-00152-2,Up to date,2,Samsung,CL31B106KBHNNNE,Volume Production,Digikey,1276-6767-1-ND,0.24638,1.48
+,7,9-6437287-8,"Super Seal Connector Header Through Hole, Right Angle 26 position 0.118"" (3.00mm) **Key 1**",J1,CMP-191-000001-4,Up to date,1,,,,,,,
+,4,824501500,824501500 WE-TVSP Power TVS Diode,D1,CMP-03913-71101561-1,Out of date,1,Wurth Electronics,824501500,Unknown,Mouser,710-824501500,0.41613,1.2484
+,6,LED 0805 Green,"Led, Green, 570 Nm, 2 V, 30 Ma, 40 Mcd Rohs Compliant: Yes","DS1, DS2, DS3, DS4, DS5, DS6, DS7",CMP-007-00060-3,Up to date,7,Wurth Electronics,150080VS75000,Unknown,Mouser,710-150080VS75000,0.26833,5.63502
+,11,40k2 1% 0603,"Fixed Resistor, Metal Glaze/thick Film, 0.1W, 40200ohm, 75V, 1% +/-Tol, 100ppm/Cel, Surface Mount, 0603",R30,CMP-009-00422-1,Up to date,1,Panasonic,ERJ-3EKF4022V,Volume Production,Newark,65T8448,0.0077,0.0231
+,12,TC33X-2-103E,"Trimming Potentiometer, 10000 Ohm, -40 to 100 degC, 3-Pin SMD, RoHS, Tape and Reel","R17, R18",CMP-2100-03695-1,Up to date,2,Bourns,TC33X-2-103E,Volume Production,Mouser,652-TC33X-2-103E,0.35874,2.15241
+,,10nF 50V C0G 0603,"Ceramic Capacitor, Multilayer, Ceramic, 50V, 5% +Tol, 5% -Tol, C0G, 30ppm/Cel TC, 0.01uF, Surface Mount, 0603","C3, C4",CMP-001-00328-1,Up to date,2,Murata,GRM1885C1H103JA01D,Volume Production,Mouser,81-GRM1885C1H103JA1D,0.06457,0.64572
+,,TSX712IDT,"Operational Amplifier, 2 Func, 450uV Offset-Max, PDSO8",U2,CMP-014-00012-3,Up to date,1,STMicroelectronics,TSX712IDT,Volume Production,Arrow Electronics,TSX712IDT,1.49334,4.48003

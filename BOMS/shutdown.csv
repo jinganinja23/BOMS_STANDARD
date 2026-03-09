@@ -1,0 +1,52 @@
+﻿,Line #,Name,Description,Designator,Quantity,Manufacturer 1,Manufacturer Part Number 1,Manufacturer Lifecycle 1,Supplier 1,Supplier Part Number 1,Supplier Unit Price 1,Supplier Subtotal 1
+,30,470nF 50V 5% X5R 0603,"Capacitor, Ceramic, SMD, 470nF, 50V, 5%, X5R, 0603",C1,1,Taiyo Yuden,UMK107ABJ474KA-T,Volume Production,Mouser,963-UMK107ABJ474KA-T,0.11,0.11
+,11,"4u7 50V 5% X7R 0603, 4u7 50V X7R 0603","Capacitor, Ceramic, SMD, 4u7, 50V, 5%, X7R, 0603","C2, C16, C17, C23",4,Kyocera AVX,06033C470KAT2A,Volume Production,Digikey,478-12685-1-ND,0.18,0.72
+,24,100nF 50V X7R 0603,100nF 50V X7R 0603,"C4, C10, C13A, C13B, C14A, C14B, C14C, C14D, C14E, C14F, C14G, C14H, C14I, C14J, C15, C18, C19, C20, C21, C22, C25",21,Samsung,CL10B104KB8NNWC,Volume Production,Digikey,1276-1935-1-ND,0.012,0.252
+,23,100nF 25V X7R 0603,100nF 25V X7R 0603,C24,1,Yageo,CC0603MRX7R8BB104,Volume Production,Digikey,311-1825-1-ND,0.1,0.1
+,44,PMEG6030EVPX,"Rectifier Diode, Schottky, 1 Phase, 1 Element, 4.2A, 60V V(RRM), Silicon",D1,1,Nexperia,PMEG6030EVPX,Volume Production,Newark,12X8767,0.188,0.188
+,2,1N4448WQ-7-F,"Diode, SMD, 75V, 5%, 250mA, SOD123","D2, D4",2,Diodes,1N4448WQ-7-F,Volume Production,Mouser,621-1N4448WQ-7-F,0.1,0.2
+,46,SMAZ12-13-F,Zener Diode 12V 1W ±5% Surface Mount SMA,D5,1,,,,,,,
+,43,NUP2105LT1G,"Trans Voltage Suppressor Diode, 350W, 24V V(RWM), Bidirectional, 2 Element, Silicon, TO-236AB","D7A, D7B",2,ON Semiconductor,NUP2105LT1G,Volume Production,Avnet,06R3477,0.166,0.332
+,39,LED 0805 RED,LED 0805 RED,"DS1, DS2",2,Broadcom Avago,HSMS-C170,Volume Production,Newark,40K0144,0.06,0.12
+,38,LED 0805 Green,"Led, Green, 570 Nm, 2 V, 30 Ma, 40 Mcd Rohs Compliant: Yes","DS3, DS4, DS5",3,Wurth Electronics,150080VS75000,Volume Production,Digikey,732-4986-1-ND,0.19,0.57
+,,3221-14-0100-00,CONN HEADER VERT 14POS 1.27MM,J1,1,CNC Tech,3221-14-0100-00,,Digikey,1175-1736-ND,0.83,0.83
+,37,G5V-2-DC12,Low Signal Relay 12VDC Coil 8-Blade Terminal 125VAC/DC 2A 2 Poles PCB Mounting DPDT,K1,1,Omron,G5V-2-DC12,Volume Production,Newark,97K0824,1.95,1.95
+,13,7k5 1% 0603,7k5 1% 0603 250mW,"R1, R2",2,Stackpole Electronics,RMCF0603FT7K50,Volume Production,Mouser,708-RMCF0603FT7K50,0.012,0.12
+,12,"6k2 1% 0603, 6k2 1% 0603 TF",6k2 1% 0603 100mW Thick Film,"R3, R6",2,Stackpole Electronics,RMCF0603FT6K20,Volume Production,Mouser,708-RMCF0603FT6K20,0.01,0.1
+,7,2M2 1% 0603,2M2 1% 0603 250mW,"R4, R5, R15, R16",4,Yageo,RC0603FR-072M2L,Volume Production,Newark,49AK1932,0.003,0.012
+,29,390k 1% 0603,390k 1% 0603 250mW,R7,1,Yageo,RC0603FR-07390KL,Volume Production,Digikey,311-390KHRCT-ND,0.1,0.1
+,28,240k 1% 0603,240k 1% 0603 250mW,R8,1,Stackpole Electronics,RMCF0603FT240K,Volume Production,Arrow Electronics,RMCF0603FT240K,0.0998,0.0998
+,1,1k5 1% 0603,Res Thick Film 0603 1.5K Ohm 1% 0.1W(1/10W) ±100ppm/C Pad SMD T/R,R9,1,Walsin Technologies,WR06X1501FTL,Volume Production,Digikey,1292-WR06X1501FTLCT-ND,0.1,0.1
+,26,150k 1% 0603,150k 1% 0603 250mW,R10,1,Walsin Technologies,WR06X1503FTL,Volume Production,Mouser,791-WR06X1503FTL,0.1,0.1
+,9,4k7 1% 0603,4k7 1% 0603,"R18A, R18B",2,Bourns,CR0603-FX-4701ELF,Volume Production,Farnell,2008340,0.01131,0.11308
+,25,100R 1% 0603,100R 1% 0603,R17,1,Stackpole Electronics,RMCF0603FT100R,Volume Production,Digikey,RMCF0603FT100RCT-ND,0.1,0.1
+,15,10k 1% 0603,10k 1% 0603 100mW,R30,1,TE Connectivity,CRGCQ0603F10K,Volume Production,Digikey,A129700CT-ND,0.1,0.1
+,41,MAX17608ATC+T,"Power Supply Support Circuit, Adjustable, 1 Channel, PDSO12",U1,1,Maxim,MAX17608ATC+T,Volume Production,Heisener,MAX17608ATC+T,4.62,4.62
+,35,BU4S584G2,IC INVERTER SCHMITT 1CH 5SSOP,U3,1,Rohm,BU4S584G2-TR,Volume Production,Newark,08X1482,0.406,0.406
+,49,STM32G474MET6,Microcontroller,U6,1,STMicroelectronics,STM32G474MET6,Volume Production,Heisener,STM32G474MET6,8.51,8.51
+,36,DSC1101CI5-020.0000T,"CMOS Output Clock Oscillator, 20MHz Nom",U7,1,Microchip,DSC1101CI5-020.0000T,Volume Production,Arrow Electronics,DSC1101CI5-020.0000T,1.28,1.28
+,48,STLINK-V3MODS,STLINK-V3 Modular In-Circuit Debugger and Programmer for STM32 Microcontrollers,U8,1,,,,,,,
+,20,35ZLH390MEFC8X20,"Aluminum Electrolytic Capacitor, Polarized, Aluminum (wet), 35V, 20% +Tol, 20% -Tol, 390uF, Through Hole Mount",C3,1,Rubycon,35ZLH390MEFC8X20,Volume Production,Farnell,8126739,0.34058,0.34058
+,4,1uF 50V X6S 0603,1uF 50V X6S 0603,"C5, C6, C7",3,TDK,C1608X6S1H105K080AC,Volume Production,Newark,95Y0033,0.043,0.129
+,16,10uF 25V X7R 0805,10uF 25V X7R 0805,C8,1,Murata,GRM21BZ71E106KE15L,Volume Production,Mouser,81-GRM21BZ71E106KE5L,0.29,0.29
+,10,4u7 25V X5R 0603,4u7 25V X5R 0603,C9,1,Murata,GRM188C81E475KE11D,Volume Production,Digikey,490-7199-1-ND,0.22,0.22
+,3,1uF 25V X7R 0603,1uF 25V X7R 0603 10%,"C11, C12",2,KEMET,C0603C105K3PACTU,Volume Production,"Mouser, Newark","80-C0603C105K3P, 93K5996","0.14, 0.013","0.28, 0.026"
+,47,SMC30J28CA,"Trans Voltage Suppressor Diode, 3000W, 28V V(RWM), Bidirectional, 1 Element, Silicon, DO-214AB",D3,1,STMicroelectronics,SMC30J28CA,Volume Production,Mouser,511-SMC30J28CA,0.68,0.68
+,19,33V Zenner 1W SMA,33V Zenner 1W SMA,D6,1,Diodes,SMAZ33-13-F,Volume Production,Digikey,SMAZ33-FDICT-ND,0.22,0.22
+,42,MM5Z3V3T1G,"Zener Diode, 3.3V V(Z), 6.06%, 0.5W, Silicon, Unidirectional","D8A, D8B, D8C, D8D, D8E, D8F, D8G, D8H, D8I, D8J",10,ON Semiconductor,MM5Z3V3T1G,Volume Production,Newark,09R9519,0.03,0.3
+,31,150060VS75000,"Single Color LED, Bright Green, Water Clear, 1.1mm","DS6A, DS6B, DS6C, DS6D, DS6E, DS6F, DS6G, DS6H, DS6I, DS6J",10,Wurth Electronics,150060VS75000,Volume Production,Newark,95W3797,0.136,1.36
+,51,VDMY10A0,Smart/Normal 7 Seg Numeric LED Display,DS7,1,Vishay Semiconductors,VDMY10A0,Volume Production,Mouser,78-VDMY10A0,1.74,1.74
+,34,ALQ3F12,"Power/Signal Relay, 1 Form A, SPST, Momentary, 0.017A (Coil), 12VDC (Coil), 200mW (Coil), 5A (Contact), 30VDC (Contact), DC Input, Random, AC/DC Output, Through Hole-Straight Mount",K2,1,Panasonic,ALQ112,Volume Production,Mouser,769-ALQ112,1.32,1.32
+,33,74437324082,"General Purpose Inductor, 8.2uH, 20%, 1 Element, Powdered  Iron-Core, SMD, 1816",L1,1,Wurth Electronics,74437324082,Volume Production,Mouser,710-74437324082,1.71,1.71
+,8,2N7002K,N-Channel 60V 300mA (Ta) 350mW (Ta) Surface Mount SOT-23 (TO-236AB),Q1,1,Infineon,BSS7728NH6327XTSA2,Obsolete,,,,
+,21,69k8 0.1% 0603,Res Thin Film 0603 69.8K Ohm 0.1% 0.1W(1/10W) ±25ppm/°C Molded SMD Punched Carrier T/R,R11,1,Panasonic,ERA-3AEB6982V,Not Recommended for New Design,Digikey,P69.8KDBCT-ND,0.1,0.1
+,5,"2k2, 1%, 0603","2k2, 1%, 0603 250mW",R12,1,TE Connectivity,CRGP0603F2K2,Volume Production,Newark,73AC3672,0.013,0.013
+,18,22k1 0.1% 0603,"Fixed Resistor, Thin Film, 0.1W, 22100ohm, 75V, 0.1% +/-Tol, 25ppm/Cel, Surface Mount, 0603",R13,1,Panasonic,ERA-3AEB2212V,Volume Production,Digikey,P22.1KDBCT-ND,0.1,0.1
+,6,2k 1% 1206 1/2W,2k 1% 1206 1/2W,R14,1,Yageo,AC1206FR-7W2KL,Volume Production,Digikey,13-AC1206FR-7W2KLCT-ND,0.11,0.11
+,14,8k2 1% 0603,8k2 1% 0603,"R19A, R19B, R19C, R19D, R19E, R19F, R19G, R19H, R19I, R19J",10,Royal Electronic Factory,0603WAF8201T5E,Volume Production,Mouser,303-0603WAF8201T5E,0.001,10
+,22,82k 1% 0603,82k 1% 0603 250mW,"R20A, R20B, R20C, R20D, R20E, R20F, R20G, R20H, R20I, R20J",10,TE Connectivity,CRGP0603F82K,Volume Production,Arrow Electronics,CRGP0603F82K,0.0107,0.107
+,17,20k 1% 0603,20k 1% 0603 0.1 mW,"R21A, R21B, R21C, R21D, R21E, R21F, R21G, R21H, R21I, R21J",10,Stackpole Electronics,RMCF0603FT20K0,Volume Production,Mouser,708-RMCF0603FT20K0,0.018,0.18
+,27,220R 1% 0603,"Fixed Resistor, Metal Glaze/thick Film, 0.1W, 220ohm, 75V, 1% +/-Tol, 100ppm/Cel, Surface Mount, 0603","R22, R23, R24, R25, R26, R27, R28, R29",8,Yageo,RC0603FR-07220RL,Volume Production,Mouser,603-RC0603FR-07220RL,0.009,0.09
+,40,LMR51610YFDBVR,SIMPLE SWITCHER POWER CONVERTER Buck Switching Regulator IC Positive Adjustable 0.8V 1 Output 1A SOT-23-6,U2,1,Texas Instruments,LMR51610YFDBVR,,Mouser,595-LMR51610YFDBVR,1.29,1.29
+,32,6437288-2,"Board Connector, 4 Row(s), Right Angle, Solder Terminal",U4,1,TE Connectivity,6437288-2,Volume Production,Arrow Electronics,6437288-2,12.47,12.47
+,50,TCAN337GDCNR,"Interface Circuit, PDSO8","U5A, U5B",2,Texas Instruments,TCAN337GDCNR,Volume Production,Mouser,595-TCAN337GDCNR,2.4,4.8

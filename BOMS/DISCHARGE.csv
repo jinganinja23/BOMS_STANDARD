@@ -1,0 +1,22 @@
+﻿,Line #,Name,Description,Designator,Revision ID,Revision Status,Quantity,Manufacturer 1,Manufacturer Part Number 1,Manufacturer Lifecycle 1,Supplier 1,Supplier Part Number 1,Supplier Unit Price 1,Supplier Subtotal 1
+,12,G5V-2-DC12,Low Signal Relay 12VDC Coil 8-Blade Terminal 125VAC/DC 2A 2 Poles PCB Mounting DPDT,"K1, K4",Unknown server,Unknown server,2,Omron,G5V-2-DC12,Volume Production,Newark,97K0824,2.04,4.08
+,16,L25J2K0E,2k 25W 5%,"R1, R2",Unknown server,Unknown server,2,Ohmite,L25J2K0E,Volume Production,Mouser,588-L25J2K0E,9.88,19.76
+,4,SMAZ12-13-F,Zener Diode 12V 1W ±5% Surface Mount SMA,"D1, D2",Unknown server,Unknown server,2,,,,,,,
+,5,1N4448WQ-7-F,"Diode, SMD, 75V, 5%, 250mA, SOD123","D3, D4",Unknown server,Unknown server,2,ON Semiconductor / Fairchild,1N914BWS,Volume Production,Mouser,512-1N914BWS,0.18,0.36
+,10,66200211022,"WR-MPC3 Single Row Right Angled Header with Plastic Pegs, THT, pitch 3mm, 2pins","J1, J2",Unknown server,Unknown server,2,Wurth Electronics,66200211022,Volume Production,Digi-Key,732-66200211022-ND,0.63,1.26
+,13,S1-12-BM,SPST-NC HV Relay,"K2, K3",Unknown server,Unknown server,2,,,,,,,
+,21,F20A15005DCFB06E,NC SPST thermal switch,"SW1, SW2",Unknown server,Unknown server,2,Canadian Thermostats,F20A15005DCFB06E,,Digi-Key,317-1580-ND,7.33,14.66
+,14,9775036960,"WA-SMSR SMT Steel Spacer Reverse with through hole 3.2mm, Length 3.6mm","MP1, MP2, MP3, MP4",Unknown server,Unknown server,4,,,,,,,
+,2,100nF 25V X7R 0603,100nF 25V X7R 0603,C1,Unknown server,Unknown server,1,Yageo,CC0603MRX7R8BB104,Volume Production,Arrow Electronics,CC0603MRX7R8BB104,0.0837,0.0837
+,3,2u2 25V X6S 0603,2u2 25V X6S 0603,C2,Unknown server,Unknown server,1,Murata,GRM188C81E225KE11D,Volume Production,Digi-Key,490-GRM188C81E225KE11DCT-ND,0.16,0.16
+,6,1N4448WQ-7-F,"Diode, SMD, 75V, 5%, 250mA, SOD123",D5,Unknown server,Unknown server,1,ON Semiconductor / Fairchild,1N914BWS,Volume Production,Mouser,512-1N914BWS,0.18,0.18
+,7,SMAZ12-13-F,Zener Diode 12V 1W ±5% Surface Mount SMA,D6,Unknown server,Unknown server,1,,,,,,,
+,8,SMAZ22-13-F,Zener Diode 22V 1W ±5% Surface Mount SMA,D7,Unknown server,Unknown server,1,Diodes,SMAZ22-13-F,Volume Production,Arrow Electronics,SMAZ22-13-F,0.3202,0.3202
+,9,PMEG6030EVPX,"Rectifier Diode, Schottky, 1 Phase, 1 Element, 4.2A, 60V V(RRM), Silicon",D9,Unknown server,Unknown server,1,Nexperia,PMEG6030EVPX,Volume Production,Arrow Electronics,PMEG6030EVPX,0.5103,0.5103
+,17,4k7 1% 0603,4k7 1% 0603,R3,Unknown server,Unknown server,1,Bourns,CR0603-FX-4701ELF,Volume Production,Avnet,61J5393,0.006,0.006
+,19,2M2 1% 0603,2M2 1% 0603 250mW,R5,Unknown server,Unknown server,1,Yageo,RC0603FR-072M2L,Volume Production,Newark,75X0145,0.003,0.003
+,20,100R 1% 0603,100R 1% 0603,R6,Unknown server,Unknown server,1,Stackpole Electronics,RMCF0603FT100R,Volume Production,Digi-Key,RMCF0603FT100RCT-ND,0.1,0.1
+,22,BU4S584G2,IC INVERTER SCHMITT 1CH 5SSOP,U1,Unknown server,Unknown server,1,Rohm,BU4S584G2-TR,Volume Production,Newark,38AH7691,0.281,0.281
+,18,Placeholder 0603,Placeholder 0603,R4,Unknown server,Unknown server,1,,,,,,,
+,,2N7002K,N-Channel 60V 300mA (Ta) 350mW (Ta) Surface Mount SOT-23 (TO-236AB),Q1,Unknown server,Unknown server,1,Infineon,BSS7728N,Not Recommended for New Design,Arrow Electronics,BSS7728NH6327XTSA2,0.3493,0.3493
+,11,66201021022,"WR-MPC3 THT Male Right Angled Header with Plastic Pegs, pitch 3mm, 10p",J3,Unknown server,Unknown server,1,Molex,43045-1001,Volume Production,Arrow Electronics,43045-1001,1.62,1.62
