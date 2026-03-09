@@ -1,0 +1,1 @@
+Add Your BOM csv files here, make the entire file name be the name of your board. This was configured for BOMs from Altium, may work otherwise.
