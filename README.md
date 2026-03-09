@@ -1,0 +1,1 @@
+This Project takes Bill of Materials csv files (From altium), and compliles them into one master BOM excel file. It will classify components as resistors, caps and such. The point is to simplify BOMs for larger projects with multiple PCBs.
